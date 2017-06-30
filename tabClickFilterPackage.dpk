@@ -4,6 +4,7 @@ package TabClickFilterPackage;
 {$R 'OLM_Cldr.dcr'}
 {$R 'OLM_DblClnd.dcr'}
 {$R 'OLMHeadClickFilter.dcr'}
+{$R *.dres}
 {$IFDEF IMPLICITBUILDING This IFDEF should not be used by users}
 {$ALIGN 8}
 {$ASSERTIONS ON}
